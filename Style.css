@@ -37,6 +37,9 @@ button {
 #increment-btn:hover{
     border: 1px solid black;
 }
+#save-btn:hover{
+    border: 1px solid black;
+}
 
 #save-btn {
     background: darkgreen;
