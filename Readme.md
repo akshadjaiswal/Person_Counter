@@ -1,3 +1,3 @@
 # Person Counter 
 
-## (Live project link)[]
+## [Live Project link](https://akshadjaiswal-person-counter.netlify.app/)
