@@ -9,11 +9,13 @@ function increment() {
   incrementCounter.innerText = count;
 }
 
+//Save counter 
 function save() {
   let countStr = count + " - ";
   saveEl.textContent += countStr;
 }
 
+//Reset counter
 function reset() {
   incrementCounter.textContent = 0;
   count=0
